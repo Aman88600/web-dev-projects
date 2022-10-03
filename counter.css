@@ -1,0 +1,37 @@
+body{
+    background-color: skyblue;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    left: 450px;
+    font-size: 40px;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+        position: relative;
+        left: 520px;
+        font-size: 40px;
+}
+.first{
+    position: relative;
+    left: 370px;
+    width: 100px;
+    height: 40px;
+    background-color: grey;
+}
+.second {
+    position: relative;
+    left: 390px;
+    width: 100px;
+    height: 40px;
+    background-color: grey;
+}
+
+.third {
+    position: relative;
+    left: 410px;
+    width: 100px;
+    height: 40px;
+    background-color: grey;
+}
